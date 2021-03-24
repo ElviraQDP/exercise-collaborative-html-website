@@ -23,6 +23,7 @@ Do not clone this repository.
 1. The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or opening it using gitpod.
 
 a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
+
 b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
 
 In order to watch the website live run the following command:
