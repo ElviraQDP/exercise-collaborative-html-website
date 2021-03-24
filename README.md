@@ -16,7 +16,14 @@ Each student works on a different file, for a different part of the website and 
 
 4. When each team member finishes, they have to commit and push to the forked repository.
 
-## 💻 Run the website
+## 🌱  How to start this project
+
+Do not clone this repository.
+
+1. The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or opening it using gitpod.
+
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
+b) If working locally type the following command from your command line: `$ git clone https://github.com/4GeeksAcademy/vanillajs-hello`.
 
 In order to watch the website live run the following command:
 
